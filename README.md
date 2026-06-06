@@ -1,6 +1,6 @@
 # EX-NO-6-Pseudo-Random-Number
-
-
+## NAME: Sukhmeet Kaur G
+## REG NO: 2305001032
 ## AIM: 
 Implementation of Pseudorandom Number Generation Using Standard library
 
@@ -37,6 +37,7 @@ return 0;
 ```
 ## OUTPUT:
 
+<img width="661" height="172" alt="image" src="https://github.com/user-attachments/assets/cae31317-aee7-4a04-98d4-20cb0c5247d8" />
 
 ## RESULT:
 Hence the experiment has been executed successfully
